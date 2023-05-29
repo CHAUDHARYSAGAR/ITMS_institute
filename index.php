@@ -33,7 +33,7 @@ hr
 </tr>
 </table>
 <ul class="active" >
-     <li><a href="itms.php">HOME</a></li>
+     <li><a href="index.php">HOME</a></li>
 <li><a href="aboutus.php">ABOUT US</a></li>
 <li><a href="course.php">COURSE</a></li>
 <li><a href="gallery.php">GALLERY</a></li>
