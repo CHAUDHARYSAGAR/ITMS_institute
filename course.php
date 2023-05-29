@@ -116,7 +116,7 @@ background-color:#660000;
 </tr>
 </table>
 <ul class="active">
-     <li><a href="itms.php">HOME</a></li>
+     <li><a href="index.php">HOME</a></li>
      
 <li><a href="aboutus.php">ABOUT US</a></li>
 
